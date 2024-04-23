@@ -3600,6 +3600,14 @@ a {
     display: flex;
   }
 
+  .h1 {
+  text-align: left;
+  font-family: Recoleta \- Bold, sans-serif;
+  font-size: 4.5vw;
+  font-weight: 700;
+  line-height: 5.4vw;
+  }
+  
   .footer {
     max-width: 1440px;
     border-top-width: 0;
